@@ -1,1 +1,1 @@
-# 2020_s_devolps_aula05
+# 2020_s_devops_aula05
